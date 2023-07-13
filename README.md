@@ -1,13 +1,6 @@
-### Internship - Ineuron
-
-### Website link
-https://insuranceprd.herokuapp.com/
-
-
 ### Project Title 
 - Insurance Premium Prediction
 
-<img src="https://github.com/Nix-code/Insurance-premium-prediction-Ineuron/blob/main/docs/Insurance.jpg" alt="Insurance">
 
 ### Domain
 - Insurance
